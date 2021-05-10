@@ -1,0 +1,14 @@
+{
+  "button.clear.selection": "clear",
+  "button.delete.restaurants": "delete",
+  "food.main.style": "Main food style",
+  "footer.search.by": "Search by Algolia",
+  "header.title": "Look for the best place to eat",
+  "no.filters": "no available filters",
+  "no.result": "no result",
+  "restaurant.selection.count": "{count, plural, =0 { no selection} one {# selection} other {# selection}}",
+  "result.count": "{count, plural, =0 {# no restaurant} one {# restaurant} other {# restaurants}}",
+  "search": "search",
+  "search.placeholder": "Restaurant name",
+  "users.review": "Review"
+}
